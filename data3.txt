@@ -3,4 +3,4 @@ tugas pertemuan 3 lanjutan
 tugas tambahan
 conflict
 merge conflict
-check tanda <<<<>>>>
+check tanda ------
