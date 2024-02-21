@@ -2,9 +2,5 @@ tugas pertemuan 3
 tugas pertemuan 3 lanjutan
 tugas tambahan
 conflict
-<<<<<<< HEAD
-margin conflict 
-=======
 merge conflict
 
->>>>>>> development
