@@ -1,9 +1,4 @@
 tugas pertemuan 3
 tugas pertemuan 3 lanjutan
 tugas tambahan
-<<<<<<< HEAD
-tugas baru
-tes conflig master
-=======
-test
->>>>>>> development
+
